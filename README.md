@@ -23,7 +23,7 @@ A modern, responsive landing page built with React, Tailwind CSS, and Vite. This
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/CodeTutor-UI.git
+git clone https://github.com/Sameer-Bagul/responsive-landing-page-reactjs15-tailwindcss-v4-main.git
 cd CodeTutor-UI
 ```
 
